@@ -12,12 +12,12 @@ Identified:
     3) Top song (with artist and popularity score) from each playlist’s top subgenre.
     4) Albums with the most hit tracks by count.
 
-📊 Visualizations
+📊 Visualizations:
 Created bar charts and other plots to visualize:
     1) Track popularity across top playlists.
     2) Genre and subgenre distributions.
 
-📌 Future Work
+📌 Future Work:
     1) More in-depth audio feature analysis (e.g., tempo, danceability).
     2) Cluster analysis to group similar playlists or tracks.
     3) Interactive dashboards using Plotly or Streamlit.
