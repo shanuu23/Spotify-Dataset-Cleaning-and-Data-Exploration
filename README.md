@@ -13,7 +13,7 @@ Identified:
     4) Albums with the most hit tracks by count.
 
 📊 Visualizations:
-1)Created bar charts and other plots to visualize:
+1) Created bar charts and other plots to visualize:
     a) Track popularity across top playlists.
     b) Genre and subgenre distributions.
 
